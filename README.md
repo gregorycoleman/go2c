@@ -1,4 +1,4 @@
-# Half-assed tiny subset of Go language to C translator
+# Tiny subset of Go language to C translator
 
 * College assignment - 2013
 * Written in Java
